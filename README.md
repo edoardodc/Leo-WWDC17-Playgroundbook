@@ -1,11 +1,10 @@
 # Leo: an interactive story
 [![Build status](https://build.appcenter.ms/v0.1/apps/e0928fc1-253b-4e65-81cd-01e013fd6c0d/branches/master/badge)](https://appcenter.ms)
 
-2 plus 2 is an interactive iOS playground book that helps children learn math using handwriting recognition, gesture detection, and augmented reality.
+This app tells the story of Leo, an animal on a journey to discover his passion, using custom animations, sounds, and handmade visuals to create an emotional experience.
 
-* Written in Swift
-* Awarded by Apple for the Swift Student Challenge 2021
-* Powered by ComputerVision, ARKit, UIKit and SwiftUI
+* Written in Swift and UIKit
+* Awarded by Apple for the WWDC Scholarship 2017
 * Auto Layout was written entirely with code
 
 ![](demo.gif)
