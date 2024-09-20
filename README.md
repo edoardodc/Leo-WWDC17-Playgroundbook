@@ -1,4 +1,4 @@
-# Leo: an interactive story
+# Leo: embark with Leo on a journey to find his passion.
 [![Build status](https://build.appcenter.ms/v0.1/apps/e0928fc1-253b-4e65-81cd-01e013fd6c0d/branches/master/badge)](https://appcenter.ms)
 
 This app tells the story of Leo, an animal on a journey to discover his passion, using custom animations, sounds, and handmade visuals to create an emotional experience.
